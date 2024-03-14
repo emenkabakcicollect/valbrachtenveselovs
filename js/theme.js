@@ -1,7 +1,7 @@
 // js Document
 
     // Created on   : 23/05/2018.
-    // Theme Name   : Charles-Business-Consulting HTML Template.
+    // Theme Name   : Valbracht & Veselovs | Gerechtsdeurwaarders & Incasso.
     // Version      : 1.0.
     // Author       : @CreativeGigs.
     // Developed by : Jubayer al hasan. (jubayer.hasan1991@gmail.com)
